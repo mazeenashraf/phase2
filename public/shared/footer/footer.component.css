@@ -1,0 +1,21 @@
+.second-sec h3 {
+      font-family: "ADLaM Display", system-ui;
+      font-weight: 500;
+
+}
+
+
+
+li:hover {
+  color: white !important;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+
+}
+
+.custom-footer-section {
+  background: linear-gradient(to bottom, rgba(0, 123, 255, 0.7), rgba(0, 123, 255, 0.8));
+  clip-path: ellipse(100% 50% at 50% 0%);
+  padding-top: 120px;
+  padding-bottom: 80px;
+}

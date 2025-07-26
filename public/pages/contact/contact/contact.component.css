@@ -1,0 +1,31 @@
+.contact-section {
+  background-color: #fff;
+}
+
+.contact-section h3,
+.contact-section h4 {
+  color: #000;
+}
+
+.contact-section .btn-primary {
+  background-color: #2c78d6;
+  border: none;
+  font-weight: bold;
+}
+
+.contact-section .btn-primary:hover {
+  background-color: #1e5fb1;
+}
+.mysec h3{
+        font-family: "ADLaM Display", system-ui;
+
+}
+.last-sec{
+    background-color: #fff;
+}
+.last-sec h3{
+      font-family: "ADLaM Display", system-ui;
+      color: #000;
+      font-size: 32px;
+      font-weight: 700;
+}
